@@ -6,6 +6,7 @@ RUN apt-get update \
           g++ \
           clang-7 clang-format-7 clang-tidy-7 \
           expect \
+          wget curl \
           zlib1g-dev \
           libboost-dev \
           libboost-chrono-dev libboost-system-dev libboost-timer-dev \
